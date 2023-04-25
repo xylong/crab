@@ -1,4 +1,5 @@
 pub mod cycle;  // cycle.rs或cycle/mod.rs
+pub mod function;   // function.rs或function/mod.rs
 
 pub fn my_loop() {
     let mut i=1;
