@@ -30,5 +30,4 @@ pub fn guess_number() {
             },
         }
     }
-    
 }
